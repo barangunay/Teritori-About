@@ -1,5 +1,5 @@
 # Teritori-About
-### Greetings, today we will be joining the Teritori Network's testnet on Cosmos, enjoy reading.
+### today we are creating toritore validator.
 # system requirements
 
 ```
